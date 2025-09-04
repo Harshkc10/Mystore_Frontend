@@ -1,7 +1,8 @@
 import React, { useState } from 'react';
 import './slider.css';
-import product1 from '../images/login_bg.jpg';
-import product2 from '../images/harsh.jpeg';
+import product1 from '../../../../assest/images/login_bg.jpg';
+import product2 from '../../../../assest/images/harsh.jpeg';
+
 
 const productImages = [
   product1,product2,product1,product2,product1,product2,product1,product2,
